@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/thangscout/bcrypt-jwt#readme",
   "dependencies": {
-    "bcrypt": "^3.0.6"
+    "bcrypt": "^3.0.6",
+    "express": "^4.17.1"
   }
 }
