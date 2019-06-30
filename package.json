@@ -1,0 +1,23 @@
+{
+  "name": "bcrypt-jwt",
+  "version": "1.0.0",
+  "description": "Guide use npm Bcrypt  and JsonWebToken",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thangscout/bcrypt-jwt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thangscout/bcrypt-jwt/issues"
+  },
+  "homepage": "https://github.com/thangscout/bcrypt-jwt#readme",
+  "dependencies": {
+    "bcrypt": "^3.0.6"
+  }
+}

@@ -1,2 +1,1 @@
-# bcrypt-jwt
-Use npm Bcrypt  and JsonWebToken 
+Guide use npm Bcrypt  and JsonWebToken 
